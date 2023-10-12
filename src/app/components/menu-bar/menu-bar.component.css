@@ -1,0 +1,23 @@
+.container__menu-bar{
+    
+}
+.container__menu-bar > ul{
+    display: flex;
+    justify-content: row;
+    width: 100%;
+    align-items: center;
+}
+.container__menu-bar > ul > li{
+    margin-right: 20px;
+    list-style: none;
+}
+.container__menu-bar-linkedin{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+}
+.container__menu-bar-github{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+}
